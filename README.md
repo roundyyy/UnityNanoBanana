@@ -3,7 +3,7 @@
 A Unity Editor tool that creates AI-generated images from your Unity Scene View using the Google Nano Banana Image API.
 
 [![Unity Nano Banana Demo](https://img.youtube.com/vi/kVZgRQq9lZc/0.jpg)](https://www.youtube.com/watch?v=kVZgRQq9lZc)
-*Click the image above to watch the demo video used for this presentation.*
+### **Click the image above to watch the tool demo on YouTube**
 
 ## Features
 
@@ -61,3 +61,4 @@ This tool requires a Google Gemini API Key.
     - Generate consistent scenes for video AI tools.
     - Create stylized "First Frame" and "Last Frame" keyframes for video generators (e.g., Veo).
     - **Workflow Example**: Pose a Unity skinned mesh character for frame 1, snapshot & generate. Change pose for frame 2, snapshot & generate. Use these as keyframes for interpolation.
+
