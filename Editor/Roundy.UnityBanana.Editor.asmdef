@@ -1,0 +1,16 @@
+{
+    "name": "Roundy.UnityBanana.Editor",
+    "rootNamespace": "Roundy.UnityBanana",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
